@@ -1,5 +1,5 @@
 def areaOfCircle(radius):
-    res=3.14*(r**2)
+    res=3.14*(radius**2)
     return res
 
 def areaOfRectangle(side1,side2):
