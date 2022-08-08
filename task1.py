@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#print odd numbers in a range
+>>>>>>> bc0c0c5 (odd numbers in a range)
 =======
 #print odd numbers in a range
 >>>>>>> bc0c0c5 (odd numbers in a range)
