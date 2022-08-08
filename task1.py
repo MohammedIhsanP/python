@@ -1,4 +1,4 @@
-#print odd numbers in a range
+
 lower_limit = int(input("Enter the lower limit : "))
 upper_limit = int(input("Enter the upper limit : "))
 while lower_limit<=upper_limit:
